@@ -25,7 +25,7 @@ A. Features:
         5-4. totalAfterDiscount()：折扣後總金額（未設定策略時預設 NoDiscount）
 
 
-B. Project Structure (Single File Demo)
+B. Project Structure (Single File Demo):
 
 此專案以單一檔案示範（OnlineShoppingDemo.java），內容包含：
 
